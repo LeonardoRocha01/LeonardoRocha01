@@ -5,8 +5,8 @@
 
 Me chamo Leonardo Rocha Vieira, tenho 20 anos e sou de Guarulhos - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera e estou me especializando na linguagem Java e também no framework Spring Boot.
 
+**`Tecnologias`**
 
-/>
 <img 
     align="left" 
     alt="Java" 
@@ -46,27 +46,5 @@ Me chamo Leonardo Rocha Vieira, tenho 20 anos e sou de Guarulhos - SP. Atualment
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-          />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoRocha01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-    <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRocha01&theme=tokyonight&layout=compact&custom_title=Teconlogias&lang_count=5"
-  />
-
-  </p>
+     />
  
