@@ -52,7 +52,7 @@ Me chamo Leonardo Rocha Vieira, tenho 20 anos e sou de Guarulhos - SP. Atualment
 <br/>
 
 ### 📊 Estatísticas
-
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -65,6 +65,8 @@ Me chamo Leonardo Rocha Vieira, tenho 20 anos e sou de Guarulhos - SP. Atualment
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoRocha01&theme=tokyonight&layout=compact&custom_title=Teconlogias&lang_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRocha01&theme=tokyonight&layout=compact&custom_title=Teconlogias&lang_count=5"
   />
+
+  </p>
  
