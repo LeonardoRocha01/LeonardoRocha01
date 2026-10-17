@@ -52,6 +52,6 @@ Estou me especializando em **Java** e **Spring Boot**, com foco em desenvolvimen
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=LeonardoRocha01&show_icons=true&hide_border=true" />
-  <img height="170" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRocha01&layout=compact&hide_border=true" />
+  <img height="170" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=LeonardoRocha01&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&border_color=30363d&hide_border=false" />
+  <img height="170" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRocha01&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" />
 </p>
